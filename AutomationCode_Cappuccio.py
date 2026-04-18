@@ -178,6 +178,3 @@ else:
 
 log_action("10:25:20", "STATUS: Loss of signal.")
 print("---End of contact sequence simulation---\n")
-
-
-
