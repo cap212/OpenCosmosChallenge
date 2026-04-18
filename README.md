@@ -2,11 +2,13 @@
 **Manuel Cappuccio, April 2026**
 OpenCosmos Candidate Challenge
 
-*Simulation of an automated Python sequence implemented in a ground station during a satellite pass.
+*AutomationCode_Cappuccio_py is a simulation of an automated Python sequence implemented in a ground station during a satellite pass.
 The code mimicks back and forth communications with the spacecraft, focusing on data integrity and 
 risk mitigation. The simulation lasts about 2 minutes, during which a built-in timer tracks the 
 evolution of the 10-minute contact window.
-Main tasks and assumptions are found in the Procedure document challengeProcedure.docx*
+Main tasks and assumptions are found in the Procedure document ChallengeProcedure_Cappuccio.pdf.
+The zip folder ProcedureSimulation_Cappuccio.zip contains the screen recording of the automation
+in progress, as a backup in case of any issue with running the code.*
 
 ### Key features
 - Operator logs: every action or status update is timestamped to simulate a real operator log  
